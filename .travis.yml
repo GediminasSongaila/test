@@ -3,5 +3,5 @@ services:
   - docker
 
 script:
-  - docker build -t GediminasSongaila/test .
-  - docker images GediminasSongaila/test
+  - docker build -t gediminassongaila/test .
+  - docker images gediminassongaila/test
