@@ -3,5 +3,5 @@ services:
   - docker
 
 script:
-  - docker build -t gedson/node .
-  - docker images gedson/node
+  - docker build -t GediminasSongaila/test .
+  - docker images GediminasSongaila/test
